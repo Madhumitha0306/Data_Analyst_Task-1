@@ -1,0 +1,9 @@
+📊 Short Summary
+
+Data Cleaning Summary:
+* Removed duplicate rows and standardized inconsistent categorical values.
+* Filled missing Income values with mean.
+* Converted Dt_Customer to datetime format for analysis.
+* Normalized text capitalization and fixed inconsistent spellings in Marital_Status and Education.
+* Renamed all columns to lowercase with underscores for better readability.
+* Final cleaned dataset exported as customer_personality_cleaned.csv.
